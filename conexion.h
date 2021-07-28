@@ -34,7 +34,7 @@ Conexion::Conexion (){
     if(conn)
         cout<<"Database CONECTADA."<<endl;
     else   
-        cout<<"FALLA EN CONEXION."<<endl;
+        cout<<"FALLA EN CONEXION de datos."<<endl;
 }
 
 void Conexion::introducir(char *c1, char* c2,char *c3,int i){  

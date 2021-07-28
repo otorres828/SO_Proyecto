@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+//hola
 class Compras {
     public:
         string id_codigo_barra;
